@@ -8,3 +8,4 @@ setuptools
 matplotlib
 catboost
 xgboost
+dill
