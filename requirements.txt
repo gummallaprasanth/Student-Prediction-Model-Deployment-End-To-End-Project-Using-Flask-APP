@@ -3,5 +3,8 @@ numpy
 pandas
 scikit-learn
 seaborn
--e .
+# -e .
 setuptools
+matplotlib
+catboost
+xgboost
